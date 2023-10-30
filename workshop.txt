@@ -1,4 +1,4 @@
-[h3]3.7 compatible. Should work on other versions too, but the launcher will complain. Highly unlikely to break as long as PDX does not change sound format/neutron launchers.[/h3]
+[h3]3.9 compatible. Should work on other versions too, but the launcher will complain. Highly unlikely to break as long as PDX does not change sound format/neutron launchers.[/h3]
 
 [h3]Achievement compatible.[/h3]
 
