@@ -1,0 +1,9 @@
+[h3]3.7 compatible. Should work on other versions too, but the launcher will complain. Highly unlikely to break as long as PDX does not change sound format/neutron launchers.[/h3]
+
+[h3]Achievement compatible.[/h3]
+
+Because bass boosted mega cannons weren't stupid enough, now you can make your neutron launcher battleships launch dubstep at your enemies.
+
+Source for the music is unreleased Virtual Riot stuff that he's made available for download over time.
+
+Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2521488747]the bass boosted mega cannon mod.[/url]

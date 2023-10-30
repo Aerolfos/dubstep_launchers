@@ -1,0 +1,165 @@
+# proton and neutron launcher sounds
+sound = {
+	name = "energy_torpedo_fire_01"
+	file = "weapons/energy_torpedo_fire_01.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_02"
+	file = "weapons/energy_torpedo_fire_02.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_03"
+	file = "weapons/energy_torpedo_fire_03.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_04"
+	file = "weapons/energy_torpedo_fire_04.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_05"
+	file = "weapons/energy_torpedo_fire_05.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_06"
+	file = "weapons/energy_torpedo_fire_06.wav"
+	volume = 0.40
+}
+# hit
+sound = {
+	name = "energy_torpedo_hit_01"
+	file = "weapons/energy_torpedo_hit_01.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_02"
+	file = "weapons/energy_torpedo_hit_02.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_03"
+	file = "weapons/energy_torpedo_hit_03.wav"
+	volume = 0.35
+}
+
+# distant version
+sound = {
+	name = "distance_energy_torpedo_fire_01"
+	file = "weapons/distance_energy_torpedo_fire_01.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_02"
+	file = "weapons/distance_energy_torpedo_fire_02.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_03"
+	file = "weapons/distance_energy_torpedo_fire_03.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_04"
+	file = "weapons/distance_energy_torpedo_fire_04.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_05"
+	file = "weapons/distance_energy_torpedo_fire_05.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_06"
+	file = "weapons/distance_energy_torpedo_fire_06.wav"
+	volume = 0.25
+}
+# distant hits
+sound = {
+	name = "distance_energy_torpedo_hit_01"
+	file = "weapons/distance_energy_torpedo_hit_01.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_02"
+	file = "weapons/distance_energy_torpedo_hit_02.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_03"
+	file = "weapons/distance_energy_torpedo_hit_03.wav"
+	volume = 0.35
+}
+# randomly play one when sound effect is played
+soundeffect = {
+	name = energy_torpedo_fire
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_torpedo_fire_01
+		sound = energy_torpedo_fire_02
+		sound = energy_torpedo_fire_03
+		sound = energy_torpedo_fire_04
+		sound = energy_torpedo_fire_05
+		sound = energy_torpedo_fire_06
+	} 
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.5
+	fade_out = 1
+}
+soundeffect = {
+	name = energy_torpedo_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_torpedo_hit_01
+		sound = energy_torpedo_hit_02
+		sound = energy_torpedo_hit_03
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+	#fade_out = 0.2
+}
+# distant version
+soundeffect = {
+	name = distance_energy_torpedo_fire
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_torpedo_fire_01
+		sound = distance_energy_torpedo_fire_02
+		sound = distance_energy_torpedo_fire_03
+		sound = distance_energy_torpedo_fire_04
+		sound = distance_energy_torpedo_fire_05
+		sound = distance_energy_torpedo_fire_06
+	} 
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.25
+	#fade_out = 0.2
+}
+soundeffect = {
+	name = distance_energy_torpedo_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_torpedo_hit_01
+		sound = distance_energy_torpedo_hit_02
+		sound = distance_energy_torpedo_hit_03
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.15
+	#fade_out = 0.2
+}
