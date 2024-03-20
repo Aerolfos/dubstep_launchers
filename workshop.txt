@@ -1,9 +1,17 @@
-[h3]3.9 compatible. Should work on other versions too, but the launcher will complain. Highly unlikely to break as long as PDX does not change sound format/neutron launchers.[/h3]
+[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/blue_caution_triangle.png[/img] Supports version: [b]3.11.x[/b][/h3]
+[h3][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/victorious_small.png[/img] Achievement compatible.[/h3]
 
-[h3]Achievement compatible.[/h3]
+[h3]This mod should work on most other versions too, despite a potential launcher warning. This mod is highly unlikely to break as long as PDX does not change sound format/neutron launchers.[/h3]
 
+[img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_description_1.png[/img]
 Because bass boosted mega cannons weren't stupid enough, now you can make your neutron launcher battleships launch dubstep at your enemies.
 
-Source for the music is unreleased Virtual Riot stuff that he's made available for download over time.
+[h3]Credits[/h3]
+Source for the music is unreleased Virtual Riot stuff that he's made available for download over time, mostly on Twitter and [url=https://soundcloud.com/riotvirtual/tracks]Soundcloud[/url].
 
 Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2521488747]the bass boosted mega cannon mod.[/url]
+
+
+[h3]Links[/h3]
+[url=https://github.com/Aerolfos/dubstep_launchers/releases/latest][img]https://img.shields.io/github/v/release/aerolfos/dubstep_launchers?logo=github&style=flat)[/img][/url] - Download from Github
+[url=https://github.com/Aerolfos/dubstep_launchers][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_github_2.png[/img][/url]
