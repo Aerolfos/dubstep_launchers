@@ -6,7 +6,7 @@
 Misc
 - Backend Github changes
 - Upgrade workshop description with proper assets, match format for other mods of mine
-- 
+
 - Add a whole lot more noises. About 35 distinct new ones, more than 100 files added (base + 2 variants for distant versions of the sound)
 
 New weapons modified
