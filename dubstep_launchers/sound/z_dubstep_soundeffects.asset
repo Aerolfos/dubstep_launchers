@@ -29,6 +29,12 @@ sound = {
 	file = "weapons/energy_torpedo_fire_06.wav"
 	volume = 0.40
 }
+# tachyon lance
+sound = {
+	name = "tachyon_lance_windup_02"
+	file = "weapons/tachyon_lance_windup_02.wav"
+	volume = 0.80
+}
 # hit
 sound = {
 	name = "energy_torpedo_hit_01"
@@ -49,51 +55,52 @@ sound = {
 # distant version
 sound = {
 	name = "distance_energy_torpedo_fire_01"
-	file = "weapons/distance_energy_torpedo_fire_01.wav"
+	file = "weapons/energy_torpedo_fire_01_distance.wav"
 	volume = 0.45
 }
 sound = {
 	name = "distance_energy_torpedo_fire_02"
-	file = "weapons/distance_energy_torpedo_fire_02.wav"
+	file = "weapons/energy_torpedo_fire_02_distance.wav"
 	volume = 0.45
 }
 sound = {
 	name = "distance_energy_torpedo_fire_03"
-	file = "weapons/distance_energy_torpedo_fire_03.wav"
+	file = "weapons/energy_torpedo_fire_03_distance.wav"
 	volume = 0.45
 }
 sound = {
 	name = "distance_energy_torpedo_fire_04"
-	file = "weapons/distance_energy_torpedo_fire_04.wav"
+	file = "weapons/energy_torpedo_fire_04_distance.wav"
 	volume = 0.45
 }
 sound = {
 	name = "distance_energy_torpedo_fire_05"
-	file = "weapons/distance_energy_torpedo_fire_05.wav"
+	file = "weapons/energy_torpedo_fire_05_distance.wav"
 	volume = 0.45
 }
 sound = {
 	name = "distance_energy_torpedo_fire_06"
-	file = "weapons/distance_energy_torpedo_fire_06.wav"
+	file = "weapons/energy_torpedo_fire_06_distance.wav"
 	volume = 0.25
 }
 # distant hits
 sound = {
 	name = "distance_energy_torpedo_hit_01"
-	file = "weapons/distance_energy_torpedo_hit_01.wav"
+	file = "weapons/energy_torpedo_hit_01_distance.wav"
 	volume = 0.35
 }
 sound = {
 	name = "distance_energy_torpedo_hit_02"
-	file = "weapons/distance_energy_torpedo_hit_02.wav"
+	file = "weapons/energy_torpedo_hit_02_distance.wav"
 	volume = 0.35
 }
 sound = {
 	name = "distance_energy_torpedo_hit_03"
-	file = "weapons/distance_energy_torpedo_hit_03.wav"
+	file = "weapons/energy_torpedo_hit_03_distance.wav"
 	volume = 0.35
 }
 # randomly play one when sound effect is played
+# neutron launcher
 soundeffect = {
 	name = energy_torpedo_fire
 	falloff = "falloff_weapons_close"
@@ -163,3 +170,23 @@ soundeffect = {
 	volume = 0.15
 	#fade_out = 0.2
 }
+
+# tachyon lance
+soundeffect = {
+	name = tachyon_lance_windup
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = tachyon_lance_windup_01
+		sound = tachyon_lance_windup_02
+	}
+	is3d = yes
+	loop = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.1 }
+	#volume_random_offset = { 0.0 0.15 }
+	volume = 0.25
+	#fade_out = 0.2
+}
+
+# no category needed since overriding vanilla effects that are already in categories
