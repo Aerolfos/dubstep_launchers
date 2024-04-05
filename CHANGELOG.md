@@ -1,7 +1,7 @@
 # Changes for [Dubstep Neutron / Proton Launchers](https://steamcommunity.com/sharedfiles/filedetails/?id=2668584047)
 
 ---
-## Dubstep Neutron / Proton Launchers `1.2.0`:
+## Dubstep Neutron / Proton Launchers `WIP`:
 
 Misc
 - Backend Github changes
