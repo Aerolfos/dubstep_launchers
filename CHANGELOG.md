@@ -12,7 +12,7 @@ Misc
 New weapons modified
 - Added a new tachyon lance chargup noise (which is dubstep, of course)
 - Working on lasers and hit noises
-- Might chance plasma to be growls
+- Might change plasma to be growls
 
 ---
 
