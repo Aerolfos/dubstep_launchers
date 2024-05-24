@@ -3,16 +3,17 @@
 ---
 ## Dubstep Neutron / Proton Launchers `WIP`:
 
-Misc
-- Backend Github changes
-- Upgrade workshop description with proper assets, match format for other mods of mine
-
+Content
 - Add a whole lot more noises. About 35 distinct new ones, more than 100 files added (base + 2 variants for distant versions of the sound)
 
 New weapons modified
 - Added a new tachyon lance chargup noise (which is dubstep, of course)
 - Working on lasers and hit noises
 - Might change plasma to be growls
+
+Misc
+- Backend Github changes
+- Upgrade workshop description with proper assets, match format for other mods of mine
 
 ---
 

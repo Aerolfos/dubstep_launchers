@@ -29,13 +29,30 @@ sound = {
 	file = "weapons/energy_torpedo_fire_06.wav"
 	volume = 0.40
 }
+sound = {
+	name = "energy_torpedo_fire_07"
+	file = "weapons/energy_torpedo_fire_07.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_08"
+	file = "weapons/energy_torpedo_fire_08.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_09"
+	file = "weapons/energy_torpedo_fire_09.wav"
+	volume = 0.50
+}
+
 # tachyon lance
 sound = {
 	name = "tachyon_lance_windup_02"
 	file = "weapons/tachyon_lance_windup_02.wav"
 	volume = 0.80
 }
-# hit
+
+# torpedo hit
 sound = {
 	name = "energy_torpedo_hit_01"
 	file = "weapons/energy_torpedo_hit_01.wav"
@@ -49,6 +66,21 @@ sound = {
 sound = {
 	name = "energy_torpedo_hit_03"
 	file = "weapons/energy_torpedo_hit_03.wav"
+	volume = 0.30
+}
+sound = {
+	name = "energy_torpedo_hit_04"
+	file = "weapons/energy_torpedo_hit_04.wav"
+	volume = 0.40
+}
+sound = {
+	name = "energy_torpedo_hit_05"
+	file = "weapons/energy_torpedo_hit_05.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_06"
+	file = "weapons/energy_torpedo_hit_06.wav"
 	volume = 0.35
 }
 
@@ -83,6 +115,32 @@ sound = {
 	file = "weapons/energy_torpedo_fire_06_distance.wav"
 	volume = 0.25
 }
+sound = {
+	name = "distance_energy_torpedo_fire_07"
+	file = "weapons/energy_torpedo_fire_07_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_08"
+	file = "weapons/energy_torpedo_fire_08_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_08_alt"
+	file = "weapons/energy_torpedo_fire_08_distance_alt.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_09"
+	file = "weapons/energy_torpedo_fire_09_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_09_alt"
+	file = "weapons/energy_torpedo_fire_09_distance_alt.wav"
+	volume = 0.45
+}
+
 # distant hits
 sound = {
 	name = "distance_energy_torpedo_hit_01"
@@ -97,8 +155,34 @@ sound = {
 sound = {
 	name = "distance_energy_torpedo_hit_03"
 	file = "weapons/energy_torpedo_hit_03_distance.wav"
+	volume = 0.30
+}
+sound = {
+	name = "distance_energy_torpedo_hit_04"
+	file = "weapons/energy_torpedo_hit_04_distance.wav"
+	volume = 0.40
+}
+sound = {
+	name = "distance_energy_torpedo_hit_05"
+	file = "weapons/energy_torpedo_hit_05_distance.wav"
 	volume = 0.35
 }
+sound = {
+	name = "distance_energy_torpedo_hit_05_alt"
+	file = "weapons/energy_torpedo_hit_05_distance_alt.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_06"
+	file = "weapons/energy_torpedo_hit_06_distance.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_06_alt"
+	file = "weapons/energy_torpedo_hit_06_distance_alt.wav"
+	volume = 0.35
+}
+
 # randomly play one when sound effect is played
 # neutron launcher
 soundeffect = {
@@ -111,13 +195,16 @@ soundeffect = {
 		sound = energy_torpedo_fire_04
 		sound = energy_torpedo_fire_05
 		sound = energy_torpedo_fire_06
-	} 
+		sound = energy_torpedo_fire_07
+		sound = energy_torpedo_fire_08
+		sound = energy_torpedo_fire_09
+	}
 	is3d = yes
 	max_audible = 4
 	max_audible_behaviour = fail
 	delay_random_offset = { 0.0 0.5 }
 	volume_random_offset = { 0.0 0.15 }
-	volume = 0.5
+	volume = 0.55
 	fade_out = 1
 }
 soundeffect = {
@@ -127,6 +214,9 @@ soundeffect = {
 		sound = energy_torpedo_hit_01
 		sound = energy_torpedo_hit_02
 		sound = energy_torpedo_hit_03
+		sound = energy_torpedo_hit_04
+		sound = energy_torpedo_hit_05
+		sound = energy_torpedo_hit_06
 	}
 	is3d = yes
 	max_audible = 2
@@ -147,6 +237,11 @@ soundeffect = {
 		sound = distance_energy_torpedo_fire_04
 		sound = distance_energy_torpedo_fire_05
 		sound = distance_energy_torpedo_fire_06
+		sound = distance_energy_torpedo_fire_07
+		sound = distance_energy_torpedo_fire_08
+		sound = distance_energy_torpedo_fire_08_alt
+		sound = distance_energy_torpedo_fire_09
+		sound = distance_energy_torpedo_fire_09_alt
 	} 
 	is3d = yes
 	max_audible = 4
@@ -162,6 +257,11 @@ soundeffect = {
 		sound = distance_energy_torpedo_hit_01
 		sound = distance_energy_torpedo_hit_02
 		sound = distance_energy_torpedo_hit_03
+		sound = distance_energy_torpedo_hit_04
+		sound = distance_energy_torpedo_hit_05
+		sound = distance_energy_torpedo_hit_05_alt
+		sound = distance_energy_torpedo_hit_06
+		sound = distance_energy_torpedo_hit_06_alt
 	}
 	is3d = yes
 	max_audible = 2
@@ -178,6 +278,7 @@ soundeffect = {
 	sounds = {
 		sound = tachyon_lance_windup_01
 		sound = tachyon_lance_windup_02
+		sound = sfx_archeology_event_bad_omen_01 # sounds dubstep enough as is
 	}
 	is3d = yes
 	loop = yes
@@ -185,7 +286,7 @@ soundeffect = {
 	max_audible_behaviour = fail
 	delay_random_offset = { 0.0 0.1 }
 	#volume_random_offset = { 0.0 0.15 }
-	volume = 0.25
+	volume = 0.35
 	#fade_out = 0.2
 }
 
