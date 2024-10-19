@@ -8,7 +8,7 @@
 
 ![Achievement Icon](https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/victorious_small.png) Achievement compatible.
 
-A Stellaris mod that makes neutron launcher equipped ships launch dubstep at their enemies.
+A Stellaris mod that makes neutron launcher equipped ships launch dubstep at their enemies, and which since includes other weapons too. For example, the perdition beam, tachyon lance, and disruptor are now equipped with wubs.
 
 ## Installation
 Steam owners can subscribe to the [Steam Workshop version of the mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2668584047).

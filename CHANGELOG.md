@@ -6,10 +6,14 @@
 Content
 - Add a whole lot more noises. About 35 distinct new ones, more than 100 files added (base + 2 variants for distant versions of the sound)
 
+Since nobody makes pure neutron launcher fleets since 3.6, the mod now brings dubstep to the battlefield in general.
+
 New weapons modified
 - Added a new tachyon lance chargup noise (which is dubstep, of course)
-- Working on lasers and hit noises
-- Might change plasma to be growls
+- Modified the perdition beam and tachyon lance, in addition to their original sounds and not a pure overwrite like neutron launchers, though
+- Disruptors make dubstep
+- Plasma hits make dubstep (but not plasma fire)
+- Wanted to make ancient weapons fire dubstep, but their sounds are not separated from the normal version
 
 Misc
 - Backend Github changes
@@ -18,7 +22,7 @@ Misc
 ---
 
 ---
-## Dubstep Neutron / Proton Launchers `1.1.2`:
+## Dubstep Neutron / Proton Launchers `1.1.4`:
 - Update descriptor to list supported Stellaris version as `3.*.*`
 - Don't have to keep doing minor updates just for the launcher this way - sounds and sound format don't change much in Stellaris and keep working without updates usually
 ---

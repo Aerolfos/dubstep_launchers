@@ -1,0 +1,1118 @@
+# new sounds
+sound = {
+	name = "bass_01"
+	file = "weapons/bass_01.wav"
+}
+sound = {
+	name = "bass_01_distance"
+	file = "weapons/bass_01_distance.wav"
+}
+sound = {
+	name = "bass_01_distance_alt"
+	file = "weapons/bass_01_distance_alt.wav"
+}
+sound = {
+	name = "bass_02"
+	file = "weapons/bass_02.wav"
+}
+sound = {
+	name = "bass_02_distance"
+	file = "weapons/bass_02_distance.wav"
+}
+sound = {
+	name = "bass_02_distance_alt"
+	file = "weapons/bass_02_distance_alt.wav"
+}
+sound = {
+	name = "bass_03"
+	file = "weapons/bass_03.wav"
+}
+sound = {
+	name = "bass_03_distance"
+	file = "weapons/bass_03_distance.wav"
+}
+sound = {
+	name = "bass_03_distance_alt"
+	file = "weapons/bass_03_distance_alt.wav"
+}
+sound = {
+	name = "chiptune_pluck_01"
+	file = "weapons/chiptune_pluck_01.wav"
+}
+sound = {
+	name = "chiptune_pluck_01_distance"
+	file = "weapons/chiptune_pluck_01_distance.wav"
+}
+sound = {
+	name = "chiptune_pluck_01_distance_alt"
+	file = "weapons/chiptune_pluck_01_distance_alt.wav"
+}
+sound = {
+	name = "chiptune_pluck_02"
+	file = "weapons/chiptune_pluck_02.wav"
+}
+sound = {
+	name = "chiptune_pluck_02_distance"
+	file = "weapons/chiptune_pluck_02_distance.wav"
+}
+sound = {
+	name = "chiptune_pluck_02_distance_alt"
+	file = "weapons/chiptune_pluck_02_distance_alt.wav"
+}
+sound = {
+	name = "growl_01"
+	file = "weapons/growl_01.wav"
+}
+sound = {
+	name = "growl_01_distance"
+	file = "weapons/growl_01_distance.wav"
+}
+sound = {
+	name = "growl_01_distance_alt"
+	file = "weapons/growl_01_distance_alt.wav"
+}
+sound = {
+	name = "growl_02"
+	file = "weapons/growl_02.wav"
+}
+sound = {
+	name = "growl_02_distance"
+	file = "weapons/growl_02_distance.wav"
+}
+sound = {
+	name = "growl_02_distance_alt"
+	file = "weapons/growl_02_distance_alt.wav"
+}
+sound = {
+	name = "growl_03"
+	file = "weapons/growl_03.wav"
+}
+sound = {
+	name = "growl_03_distance"
+	file = "weapons/growl_03_distance.wav"
+}
+sound = {
+	name = "growl_03_distance_alt"
+	file = "weapons/growl_03_distance_alt.wav"
+}
+sound = {
+	name = "growl_04"
+	file = "weapons/growl_04.wav"
+}
+sound = {
+	name = "growl_04_distance"
+	file = "weapons/growl_04_distance.wav"
+}
+sound = {
+	name = "growl_04_distance_alt"
+	file = "weapons/growl_04_distance_alt.wav"
+}
+sound = {
+	name = "melodic_chord_01"
+	file = "weapons/melodic_chord_01.wav"
+}
+sound = {
+	name = "melodic_chord_01_distance"
+	file = "weapons/melodic_chord_01_distance.wav"
+}
+sound = {
+	name = "melodic_chord_01_distance_alt"
+	file = "weapons/melodic_chord_01_distance_alt.wav"
+}
+sound = {
+	name = "melody_01"
+	file = "weapons/melody_01.wav"
+}
+sound = {
+	name = "melody_01_distance"
+	file = "weapons/melody_01_distance.wav"
+}
+sound = {
+	name = "melody_01_distance_alt"
+	file = "weapons/melody_01_distance_alt.wav"
+}
+sound = {
+	name = "melody_02"
+	file = "weapons/melody_02.wav"
+}
+sound = {
+	name = "melody_02_distance"
+	file = "weapons/melody_02_distance.wav"
+}
+sound = {
+	name = "melody_02_distance_alt"
+	file = "weapons/melody_02_distance_alt.wav"
+}
+sound = {
+	name = "melody_03"
+	file = "weapons/melody_03.wav"
+}
+sound = {
+	name = "melody_03_distance"
+	file = "weapons/melody_03_distance.wav"
+}
+sound = {
+	name = "melody_03_distance_alt"
+	file = "weapons/melody_03_distance_alt.wav"
+}
+sound = {
+	name = "melody_hit_01"
+	file = "weapons/melody_hit_01.wav"
+}
+sound = {
+	name = "melody_hit_01_distance"
+	file = "weapons/melody_hit_01_distance.wav"
+}
+sound = {
+	name = "melody_hit_01_distance_alt"
+	file = "weapons/melody_hit_01_distance_alt.wav"
+}
+sound = {
+	name = "phaser_out_01"
+	file = "weapons/phaser_out_01.wav"
+}
+sound = {
+	name = "phaser_out_01_distance"
+	file = "weapons/phaser_out_01_distance.wav"
+}
+sound = {
+	name = "phaser_out_01_distance_alt"
+	file = "weapons/phaser_out_01_distance_alt.wav"
+}
+sound = {
+	name = "shield_wobble_01"
+	file = "weapons/shield_wobble_01.wav"
+}
+sound = {
+	name = "shield_wobble_01_distance"
+	file = "weapons/shield_wobble_01_distance.wav"
+}
+sound = {
+	name = "shield_wobble_01_distance_alt"
+	file = "weapons/shield_wobble_01_distance_alt.wav"
+}
+sound = {
+	name = "tachyon_lance_windup_02"
+	file = "weapons/tachyon_lance_windup_02.wav"
+}
+sound = {
+	name = "vr_fire_01"
+	file = "weapons/vr_fire_01.wav"
+}
+sound = {
+	name = "vr_fire_01_distance"
+	file = "weapons/vr_fire_01_distance.wav"
+}
+sound = {
+	name = "vr_fire_01_distance_alt"
+	file = "weapons/vr_fire_01_distance_alt.wav"
+}
+sound = {
+	name = "vr_hit_02"
+	file = "weapons/vr_hit_02.wav"
+}
+sound = {
+	name = "vr_hit_02_distance"
+	file = "weapons/vr_hit_02_distance.wav"
+}
+sound = {
+	name = "vr_hit_02_distance_alt"
+	file = "weapons/vr_hit_02_distance_alt.wav"
+}
+sound = {
+	name = "vr_hit_03"
+	file = "weapons/vr_hit_03.wav"
+}
+sound = {
+	name = "vr_hit_03_distance"
+	file = "weapons/vr_hit_03_distance.wav"
+}
+sound = {
+	name = "vr_hit_03_distance_alt"
+	file = "weapons/vr_hit_03_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_fire_01"
+	file = "weapons/vr_laser_fire_01.wav"
+}
+sound = {
+	name = "vr_laser_fire_01_distance"
+	file = "weapons/vr_laser_fire_01_distance.wav"
+}
+sound = {
+	name = "vr_laser_fire_01_distance_alt"
+	file = "weapons/vr_laser_fire_01_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_fire_02"
+	file = "weapons/vr_laser_fire_02.wav"
+}
+sound = {
+	name = "vr_laser_fire_02_distance"
+	file = "weapons/vr_laser_fire_02_distance.wav"
+}
+sound = {
+	name = "vr_laser_fire_02_distance_alt"
+	file = "weapons/vr_laser_fire_02_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_fire_03"
+	file = "weapons/vr_laser_fire_03.wav"
+}
+sound = {
+	name = "vr_laser_fire_03_distance"
+	file = "weapons/vr_laser_fire_03_distance.wav"
+}
+sound = {
+	name = "vr_laser_fire_03_distance_alt"
+	file = "weapons/vr_laser_fire_03_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_fire_04"
+	file = "weapons/vr_laser_fire_04.wav"
+}
+sound = {
+	name = "vr_laser_fire_04_distance"
+	file = "weapons/vr_laser_fire_04_distance.wav"
+}
+sound = {
+	name = "vr_laser_fire_04_distance_alt"
+	file = "weapons/vr_laser_fire_04_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_short_01"
+	file = "weapons/vr_laser_short_01.wav"
+}
+sound = {
+	name = "vr_laser_short_01_distance"
+	file = "weapons/vr_laser_short_01_distance.wav"
+}
+sound = {
+	name = "vr_laser_short_01_distance_alt"
+	file = "weapons/vr_laser_short_01_distance_alt.wav"
+}
+sound = {
+	name = "vr_laser_short_02"
+	file = "weapons/vr_laser_short_02.wav"
+}
+sound = {
+	name = "vr_laser_short_02_distance"
+	file = "weapons/vr_laser_short_02_distance.wav"
+}
+sound = {
+	name = "vr_laser_short_02_distance_alt"
+	file = "weapons/vr_laser_short_02_distance_alt.wav"
+}
+sound = {
+	name = "yah_yah_01"
+	file = "weapons/yah_yah_01.wav"
+}
+sound = {
+	name = "yah_yah_01_distance"
+	file = "weapons/yah_yah_01_distance.wav"
+}
+sound = {
+	name = "yah_yah_01_distance_alt"
+	file = "weapons/yah_yah_01_distance_alt.wav"
+}
+sound = {
+	name = "yah_yah_02"
+	file = "weapons/yah_yah_02.wav"
+}
+sound = {
+	name = "yah_yah_02_distance"
+	file = "weapons/yah_yah_02_distance.wav"
+}
+sound = {
+	name = "yah_yah_02_distance_alt"
+	file = "weapons/yah_yah_02_distance_alt.wav"
+}
+sound = {
+	name = "yah_yah_03"
+	file = "weapons/yah_yah_03.wav"
+}
+sound = {
+	name = "yah_yah_03_distance"
+	file = "weapons/yah_yah_03_distance.wav"
+}
+sound = {
+	name = "yah_yah_03_distance_alt"
+	file = "weapons/yah_yah_03_distance_alt.wav"
+	volume = 0.50
+}
+
+# proton and neutron launcher sounds
+sound = {
+	name = "energy_torpedo_fire_01"
+	file = "weapons/energy_torpedo_fire_01.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_02"
+	file = "weapons/energy_torpedo_fire_02.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_03"
+	file = "weapons/energy_torpedo_fire_03.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_04"
+	file = "weapons/energy_torpedo_fire_04.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_05"
+	file = "weapons/energy_torpedo_fire_05.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_06"
+	file = "weapons/energy_torpedo_fire_06.wav"
+	volume = 0.40
+}
+sound = {
+	name = "energy_torpedo_fire_07"
+	file = "weapons/energy_torpedo_fire_07.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_08"
+	file = "weapons/energy_torpedo_fire_08.wav"
+	volume = 0.50
+}
+sound = {
+	name = "energy_torpedo_fire_09"
+	file = "weapons/energy_torpedo_fire_09.wav"
+	volume = 0.50
+}
+
+# torpedo hit
+sound = {
+	name = "energy_torpedo_hit_01"
+	file = "weapons/energy_torpedo_hit_01.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_02"
+	file = "weapons/energy_torpedo_hit_02.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_03"
+	file = "weapons/energy_torpedo_hit_03.wav"
+	volume = 0.30
+}
+sound = {
+	name = "energy_torpedo_hit_04"
+	file = "weapons/energy_torpedo_hit_04.wav"
+	volume = 0.40
+}
+sound = {
+	name = "energy_torpedo_hit_05"
+	file = "weapons/energy_torpedo_hit_05.wav"
+	volume = 0.35
+}
+sound = {
+	name = "energy_torpedo_hit_06"
+	file = "weapons/energy_torpedo_hit_06.wav"
+	volume = 0.35
+}
+
+# distant version
+sound = {
+	name = "distance_energy_torpedo_fire_01"
+	file = "weapons/energy_torpedo_fire_01_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_02"
+	file = "weapons/energy_torpedo_fire_02_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_03"
+	file = "weapons/energy_torpedo_fire_03_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_04"
+	file = "weapons/energy_torpedo_fire_04_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_05"
+	file = "weapons/energy_torpedo_fire_05_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_06"
+	file = "weapons/energy_torpedo_fire_06_distance.wav"
+	volume = 0.25
+}
+sound = {
+	name = "distance_energy_torpedo_fire_07"
+	file = "weapons/energy_torpedo_fire_07_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_08"
+	file = "weapons/energy_torpedo_fire_08_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_08_alt"
+	file = "weapons/energy_torpedo_fire_08_distance_alt.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_09"
+	file = "weapons/energy_torpedo_fire_09_distance.wav"
+	volume = 0.45
+}
+sound = {
+	name = "distance_energy_torpedo_fire_09_alt"
+	file = "weapons/energy_torpedo_fire_09_distance_alt.wav"
+	volume = 0.45
+}
+
+# distant hits
+sound = {
+	name = "distance_energy_torpedo_hit_01"
+	file = "weapons/energy_torpedo_hit_01_distance.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_02"
+	file = "weapons/energy_torpedo_hit_02_distance.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_03"
+	file = "weapons/energy_torpedo_hit_03_distance.wav"
+	volume = 0.30
+}
+sound = {
+	name = "distance_energy_torpedo_hit_04"
+	file = "weapons/energy_torpedo_hit_04_distance.wav"
+	volume = 0.40
+}
+sound = {
+	name = "distance_energy_torpedo_hit_05"
+	file = "weapons/energy_torpedo_hit_05_distance.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_05_alt"
+	file = "weapons/energy_torpedo_hit_05_distance_alt.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_06"
+	file = "weapons/energy_torpedo_hit_06_distance.wav"
+	volume = 0.35
+}
+sound = {
+	name = "distance_energy_torpedo_hit_06_alt"
+	file = "weapons/energy_torpedo_hit_06_distance_alt.wav"
+	volume = 0.35
+}
+
+# randomly play one when sound effect is played
+# neutron launcher
+soundeffect = {
+	name = energy_torpedo_fire
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_torpedo_fire_01
+		sound = yah_yah_01
+		sound = energy_torpedo_fire_02
+		sound = energy_torpedo_fire_03
+		sound = energy_torpedo_fire_04
+		sound = energy_torpedo_fire_05
+		sound = energy_torpedo_fire_06
+		sound = energy_torpedo_fire_07
+		sound = energy_torpedo_fire_08
+		sound = energy_torpedo_fire_09
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.55
+	fade_out = 1
+}
+soundeffect = {
+	name = energy_torpedo_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_torpedo_hit_01
+		sound = yah_yah_02
+		sound = energy_torpedo_hit_02
+		sound = energy_torpedo_hit_03
+		sound = energy_torpedo_hit_04
+		sound = energy_torpedo_hit_05
+		sound = energy_torpedo_hit_06
+		sound = yah_yah_03
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+	#fade_out = 0.2
+}
+# distant version
+soundeffect = {
+	name = distance_energy_torpedo_fire
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_torpedo_fire_01
+		sound = yah_yah_01_distance
+		sound = yah_yah_01_distance_alt
+		sound = distance_energy_torpedo_fire_02
+		sound = distance_energy_torpedo_fire_03
+		sound = distance_energy_torpedo_fire_04
+		sound = distance_energy_torpedo_fire_05
+		sound = distance_energy_torpedo_fire_06
+		sound = distance_energy_torpedo_fire_07
+		sound = distance_energy_torpedo_fire_08
+		sound = distance_energy_torpedo_fire_08_alt
+		sound = distance_energy_torpedo_fire_09
+		sound = distance_energy_torpedo_fire_09_alt
+	} 
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.25
+	#fade_out = 0.2
+}
+soundeffect = {
+	name = distance_energy_torpedo_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_torpedo_hit_01
+		sound = distance_energy_torpedo_hit_02
+		sound = distance_energy_torpedo_hit_03
+		sound = distance_energy_torpedo_hit_04
+		sound = distance_energy_torpedo_hit_05
+		sound = distance_energy_torpedo_hit_05_alt
+		sound = distance_energy_torpedo_hit_06
+		sound = distance_energy_torpedo_hit_06_alt
+		sound = yah_yah_02_distance
+		sound = yah_yah_02_distance_alt
+		sound = yah_yah_03_distance
+		sound = yah_yah_03_distance_alt
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.15
+	#fade_out = 0.2
+}
+
+# palsma launcher hits
+soundeffect = {
+	name = plasma_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = growl_01
+		sound = growl_02
+		sound = growl_03
+		sound = growl_04
+	}
+	is3d = yes
+	max_audible = 5
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.25
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_plasma_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = growl_01_distance
+		sound = growl_01_distance_alt
+		sound = growl_02_distance
+		sound = growl_02_distance_alt
+		sound = growl_03_distance
+		sound = growl_03_distance_alt
+		sound = growl_04_distance
+		sound = growl_04_distance_alt
+	}
+	is3d = yes
+	max_audible = 8
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.15
+	fade_out = 0.2
+}
+
+# disruptors
+soundeffect = {
+	name = disruptor_fire
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = disruptor_fire_01
+		sound = vr_laser_short_01
+		sound = vr_laser_short_02
+		sound = disruptor_fire_02
+		sound = disruptor_fire_03
+		sound = melody_01
+		sound = melody_02
+		sound = melody_03
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.45
+	fade_out = 0.2
+	playbackrate_random_offset = { -5.0 5.0 }
+}
+soundeffect = {
+	name = disruptor_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = vr_laser_fire_01
+		sound = vr_laser_fire_02
+		sound = vr_laser_fire_03
+		sound = vr_laser_fire_04
+		sound = melody_01
+		sound = melody_02
+		sound = melody_03
+	}
+	is3d = yes
+	max_audible = 7
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.5
+	fade_out = 0.2
+	playbackrate_random_offset = { -3.0 3.0 }
+}
+soundeffect = {
+	name = distance_disruptor_fire
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_disruptor_fire_01
+		sound = vr_laser_short_01_distance
+		sound = vr_laser_short_01_distance_alt
+		sound = vr_laser_short_02_distance
+		sound = vr_laser_short_02_distance_alt
+		sound = distance_disruptor_fire_02
+		sound = distance_disruptor_fire_03
+		sound = melody_01_distance
+		sound = melody_02_distance
+		sound = melody_03_distance
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	volume = 0.3
+	fade_out = 0.2
+	playbackrate_random_offset = { -5.0 5.0 }
+}
+soundeffect = {
+	name = distance_disruptor_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = vr_laser_fire_01_distance
+		sound = vr_laser_fire_01_distance_alt
+		sound = vr_laser_fire_02_distance
+		sound = vr_laser_fire_02_distance_alt
+		sound = vr_laser_fire_03_distance
+		sound = vr_laser_fire_03_distance_alt
+		sound = vr_laser_fire_04_distance
+		sound = vr_laser_fire_04_distance_alt
+		sound = melody_01_distance_alt
+		sound = melody_02_distance_alt
+		sound = melody_03_distance_alt
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	volume = 0.15
+	fade_out = 0.2
+	playbackrate_random_offset = { -3.0 3.0 }
+}
+
+# tachyon lance
+soundeffect = {
+	name = energy_lance_fire
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_lance_fire_01
+		sound = phaser_out_01
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+	fade_out = 0.2
+}
+soundeffect = {
+	name = energy_lance_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = energy_lance_hit_01
+		sound = phaser_out_01
+		sound = melody_hit_01
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_energy_lance_fire
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_lance_fire_01
+		sound = phaser_out_01_distance
+		sound = phaser_out_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 2.0 -2.05 }
+	volume = 0.4
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_energy_lance_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_energy_lance_hit_01
+		sound = melody_hit_01_distance
+		sound = melody_hit_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 -2.05 }
+	volume = 0.2
+	fade_out = 0.2
+}
+soundeffect = {
+	name = tachyon_lance_windup
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = tachyon_lance_windup_01
+		sound = tachyon_lance_windup_02
+		sound = sfx_archeology_event_bad_omen_01 # sounds dubstep enough as is
+	}
+	is3d = yes
+	loop = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.1 }
+	#volume_random_offset = { 0.0 0.15 }
+	volume = 0.25
+	fade_out = 0.2
+}
+soundeffect = {
+	name = tachyon_lance_fire
+	falloff = "falloff_weapons_xl"
+	sounds = {
+		sound = tachyon_lance_fire_01
+		sound = tachyon_lance_fire_02
+		sound = tachyon_lance_fire_03
+		sound = vr_fire_01
+	}
+	is3d = yes
+	max_audible = 5
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 -0.15 }
+	playbackrate_random_offset = { 0.0 1.5 }
+	volume = 0.75
+	fade_out = 0.2
+}
+soundeffect = {
+	name = tachyon_lance_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = tachyon_lance_hit_01
+		sound = tachyon_lance_hit_02
+		sound = tachyon_lance_hit_03wav
+		sound = vr_hit_02
+		sound = vr_hit_03
+	}
+	is3d = yes
+	max_audible = 5
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.25 }
+	volume = 0.5
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_achyon_lance_windup
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_tachyon_lance_windup_01
+		sound = tachyon_lance_windup_02
+		sound = sfx_archeology_event_bad_omen_01
+	}
+	is3d = yes
+	loop = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_tachyon_lance_fire
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_tachyon_lance_fire_01
+		sound = distance_tachyon_lance_fire_02
+		sound = distance_tachyon_lance_fire_03
+		sound = vr_fire_01_distance
+		sound = vr_fire_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.25 }
+	volume = 0.32
+	fade_out = 0.2
+}
+soundeffect = {
+	name = distance_tachyon_lance_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_tachyon_lance_hit_01
+		sound = distance_tachyon_lance_hit_02
+		sound = distance_tachyon_lance_hit_03
+		sound = vr_hit_02_distance
+		sound = vr_hit_02_distance_alt
+		sound = vr_hit_03_distance
+		sound = vr_hit_03_distance_alt
+	}
+	is3d = yes
+	max_audible = 7
+	max_audible_behaviour = fail
+	delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { 0.0 0.25 }
+	volume = 0.5
+	fade_out = 0.2
+}
+
+# add to shield hits
+soundeffect = {
+	name = shield_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = shield_hit_01
+		sound = shield_hit_02
+		sound = shield_hit_03
+		sound = shield_hit_04
+		sound = shield_hit_05
+		sound = shield_hit_06
+		sound = shield_wobble_01
+		sound = melody_hit_01
+	}
+	is3d = yes
+	max_audible = 9
+	max_audible_behaviour = fail
+	playbackrate_random_offset = { 0.0 0.6 }
+	volume = 0.45
+}
+soundeffect = {
+	name = distance_shield_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = shield_wobble_01_distance
+		sound = distance_shield_hit_01
+		sound = distance_shield_hit_02
+		sound = distance_shield_hit_03
+		sound = distance_shield_hit_04
+		sound = distance_shield_hit_05
+		sound = distance_shield_hit_06
+		sound = shield_wobble_01_distance_alt
+		sound = melody_hit_01_distance
+		sound = melody_hit_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	volume = 0.25
+}
+
+# perdition beam
+soundeffect = {
+	name = perdition_beam_windup_layer_01
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_windup_01
+	}
+	loop = yes
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.4
+}
+soundeffect = {
+	name = perdition_beam_windup_layer_02
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_windup_02
+		sound = tachyon_lance_windup_02
+	}
+	loop = yes
+	is3d = yes
+	max_audible = 3
+	max_audible_behaviour = fail
+	volume_random_offset = { 0.0 0.15 }
+	volume = 0.3
+}
+soundeffect = {
+	name = perdition_beam_fire_layer_01
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_fire_01
+		sound = bass_01
+		sound = bass_02
+		sound = bass_03
+		sound = chiptune_pluck_01
+		sound = chiptune_pluck_02
+	}
+	is3d = yes
+	max_audible = 10
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.7
+}
+soundeffect = {
+	name = perdition_beam_fire_layer_02
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_fire_02
+		sound = phaser_out_01
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.7
+}
+soundeffect = {
+	name = perdition_beam_fire_layer_03
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_fire_03
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.7
+}
+soundeffect = {
+	name = distance_perdition_beam_fire_layer_01
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_perdition_beam_fire_01
+		sound = bass_01_distance
+		sound = bass_01_distance_alt
+		sound = bass_02_distance
+		sound = bass_02_distance_alt
+		sound = bass_03_distance
+		sound = bass_03_distance_alt
+		sound = chiptune_pluck_01_distance
+		sound = chiptune_pluck_01_distance_alt
+		sound = chiptune_pluck_02_distance
+		sound = chiptune_pluck_02_distance_alt
+	}
+	is3d = yes
+	max_audible = 12
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.4
+}
+soundeffect = {
+	name = distance_perdition_beam_fire_layer_02
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_perdition_beam_fire_02
+		sound = phaser_out_01_distance
+		sound = phaser_out_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.4
+}
+soundeffect = {
+	name = distance_perdition_beam_fire_layer_03
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_perdition_beam_fire_03
+	}
+	is3d = yes
+	max_audible = 2
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.4
+}
+soundeffect = {
+	name = perdition_beam_hit
+	falloff = "falloff_weapons_close"
+	sounds = {
+		sound = perdition_beam_hit_01
+		sound = melodic_chord_01
+		sound = melody_hit_01
+	}
+	is3d = yes
+	max_audible = 4
+	max_audible_behaviour = fail
+	#delay_random_offset = { 0.0 0.5 }
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.6
+}
+soundeffect = {
+	name = distance_perdition_beam_hit
+	falloff = "falloff_weapons_distance"
+	sounds = {
+		sound = distance_perdition_beam_hit_01
+		sound = melodic_chord_01_distance
+		sound = melodic_chord_01_distance_alt
+		sound = melody_hit_01_distance
+		sound = melody_hit_01_distance_alt
+	}
+	is3d = yes
+	max_audible = 6
+	max_audible_behaviour = fail
+	volume_random_offset = { -0.05 0.05 }
+	playbackrate_random_offset = { -5.0 5.0 }
+	volume = 0.4
+}
+
+# no category needed since overriding vanilla effects that are already in categories

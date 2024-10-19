@@ -6,10 +6,12 @@
 [img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_description_1.png[/img]
 Because bass boosted mega cannons weren't stupid enough, now you can make your neutron launcher battleships launch dubstep at your enemies.
 
+Now featuring even more weapons with such noises, and not restricted to the mono-build which nobody makes since 3.6 anyway. Notables include perdition beams, tachyon lances, and disruptors.
+
 [h3]Credits[/h3]
 Source for the music is unreleased Virtual Riot stuff that he's made available for download over time, mostly on Twitter and [url=https://soundcloud.com/riotvirtual/tracks]Soundcloud[/url].
 
-Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2521488747]the bass boosted mega cannon mod.[/url]
+Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2521488747]the bass boosted mega cannon mod[/url].
 
 
 [h3]Links[/h3]
