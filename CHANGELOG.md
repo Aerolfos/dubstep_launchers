@@ -1,7 +1,7 @@
 # Changes for [Dubstep Neutron / Proton Launchers](https://steamcommunity.com/sharedfiles/filedetails/?id=2668584047)
 
 ---
-## Dubstep Neutron / Proton Launchers `WIP`:
+## [Dubstep Neutron / Proton Launchers `v1.2.0`](https://github.com/Aerolfos/dubstep_launchers/releases/tag/v1.2.0):
 
 Content
 - Add a whole lot more noises. About 35 distinct new ones, more than 100 files added (base + 2 variants for distant versions of the sound)

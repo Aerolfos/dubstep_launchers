@@ -1,10 +1,10 @@
 name="Dubstep Neutron / Proton Launchers"
-version="1.1.4"
+version="v1.2.0"
 tags={
 	"Military"
 	"Sound"
 }
 path="mod/dubstep_launchers/dubstep_launchers"
 picture="thumbnail.png"
-supported_version="3.*.*"
+supported_version="v3.*.*"
 remote_file_id="2668584047"
