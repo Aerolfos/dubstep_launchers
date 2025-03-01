@@ -13,7 +13,6 @@ Source for the music is unreleased Virtual Riot stuff that he's made available f
 
 Inspired by [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2521488747]the bass boosted mega cannon mod[/url].
 
-
 [h3]Links[/h3]
 [url=https://github.com/Aerolfos/dubstep_launchers/releases/latest][img]https://img.shields.io/github/v/release/aerolfos/dubstep_launchers?logo=github&style=flat)[/img][/url] - Download from Github
 [url=https://github.com/Aerolfos/dubstep_launchers][img]https://raw.githubusercontent.com/Aerolfos/stellaris_mod_deploy_action/main/assets/header_github_2.png[/img][/url]

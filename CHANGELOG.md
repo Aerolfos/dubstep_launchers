@@ -1,6 +1,11 @@
 # Changes for [Dubstep Neutron / Proton Launchers](https://steamcommunity.com/sharedfiles/filedetails/?id=2668584047)
 
 ---
+## Dubstep Neutron / Proton Launchers `WIP`:
+- Stellaris `3.14` compatibility
+---
+
+---
 ## [Dubstep Neutron / Proton Launchers `v1.2.0`](https://github.com/Aerolfos/dubstep_launchers/releases/tag/v1.2.0):
 
 Content
@@ -9,7 +14,7 @@ Content
 Since nobody makes pure neutron launcher fleets since 3.6, the mod now brings dubstep to the battlefield in general.
 
 New weapons modified
-- Added a new tachyon lance chargup noise (which is dubstep, of course)
+- Added a new tachyon lance chargeup noise (which is dubstep, of course)
 - Modified the perdition beam and tachyon lance, in addition to their original sounds and not a pure overwrite like neutron launchers, though
 - Disruptors make dubstep
 - Plasma hits make dubstep (but not plasma fire)
