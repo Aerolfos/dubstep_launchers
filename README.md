@@ -13,7 +13,9 @@ A Stellaris mod that makes neutron launcher equipped ships launch dubstep at the
 ## Installation
 Steam owners can subscribe to the [Steam Workshop version of the mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2668584047).
 
-Otherwise, download from GitHub, use the releases on the right. [More instructions here.](https://github.com/Aerolfos/stellaris_mod_deploy_action/wiki/Mod-Installation)
+[Manual download](https://github.com/Aerolfos/dubstep_launchers/releases/latest).
+
+[Manual installation instructions](https://github.com/Aerolfos/stellaris_mod_deploy_action/wiki/Mod-Installation).
 
 ## License
 Code and documentation are licensed under [GNU GPL v3.0](LICENSE). 
