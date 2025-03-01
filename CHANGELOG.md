@@ -2,11 +2,6 @@
 
 ---
 ## Dubstep Neutron / Proton Launchers `WIP`:
-- Newest changes
----
-
----
-## [Dubstep Neutron / Proton Launchers `v1.2.1`](https://github.com/Aerolfos/dubstep_launchers/releases/tag/v1.2.1):
 - Stellaris `3.14` compatibility
 ---
 
