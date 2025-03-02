@@ -1,5 +1,5 @@
 name="Dubstep Neutron / Proton Launchers"
-version="v1.2.0"
+version="v1.2.1"
 tags={
 	"Military"
 	"Sound"
