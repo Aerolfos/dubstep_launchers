@@ -2,6 +2,11 @@
 
 ---
 ## Dubstep Neutron / Proton Launchers `WIP`:
+- Newest changes
+---
+
+---
+## [Dubstep Neutron / Proton Launchers `v1.2.2`](https://github.com/Aerolfos/dubstep_launchers/releases/tag/v1.2.2):
 - Test with 4.0, no significant changes
 ---
 
